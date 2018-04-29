@@ -7,5 +7,4 @@ setup(
     author='Govind',
     author_email='example@example.com',
     packages=['mytest'],  #same as name
-    data_files=[('mytest', ['mytest/test.csv', 'mytest/test.cfg', 'mytest/test.bin'])]   
 )
