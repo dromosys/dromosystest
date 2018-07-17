@@ -6,5 +6,5 @@ setup(
     description='A useful module',
     author='Govind',
     author_email='example@example.com',
-    packages=['dromosystest'],  #same as name
+    packages=['mytest'],  #same as name
 )
